@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/crizatip/crizatip/blob/output/snake.svg" alt="Snake animation" />
-
 ###
