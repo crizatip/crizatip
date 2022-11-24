@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Cristiano Pita. Bem vindo-a!</h2>
+<h2 align="left">Olá 👋! Me chamo Cristiano Pita. Bem vindo(a)!</h2>
 
 ###
 
