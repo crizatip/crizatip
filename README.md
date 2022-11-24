@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor web atualmente estudando na trybe, cursando o modulo de back-end. Por formação sou designer e busco integrar meus conhecimentos projetuais e métodologias de design com desenvolvimento web. Já desenvolvi projetos utilizando conhecimentos em : Node.js, Express, Sequelize, MySQL, Javascript, HTML, CSS, React, Jest, RTL, Redux e Context API. <br><br>Adoro trabalhar em equipe e estou sempre aprimorando minhas soft skills em comunicação.<br><br>Sou Apaixonado por ilustração e pixeal art que faço como hobby e sempre estou buscando mais conhecimento. <br><br>contato: crizatip@gmail.com</p>
+<p align="left">Sou desenvolvedor web atualmente estudando na trybe, cursando o modulo de back-end. Por formação sou designer e busco integrar meus conhecimentos projetuais e métodologias de design com desenvolvimento web. Já desenvolvi projetos utilizando conhecimentos em : Node.js, Express, Sequelize, MySQL, Javascript, HTML, CSS, React, Jest, RTL, Redux e Context API. <br><br>Adoro trabalhar em equipe e estou sempre aprimorando minhas soft skills em comunicação.<br><br>Sou Apaixonado por ilustração e pixeal art que faço como hobby e sempre estou buscando mais conhecimento. <br></p>
 
 ###
 
@@ -45,5 +45,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/crizatip/crizatip/blob/output/snake.svg" alt="Snake animation" />
 
 ###
