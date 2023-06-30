@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Sou desenvolvedor web atualmente estudando na trybe, cursando o modulo de back-end. Por formação sou designer e busco integrar meus conhecimentos projetuais e métodologias de design com desenvolvimento web. Já desenvolvi projetos utilizando conhecimentos em : Node.js, Express, Sequelize, MySQL, Javascript, HTML, CSS, React, Jest, RTL, Redux e Context API. <br><br>Adoro trabalhar em equipe e estou sempre aprimorando minhas soft skills em comunicação.<br><br>Sou Apaixonado por ilustração e pixeal art que faço como hobby e sempre estou buscando mais conhecimento. <br></p>
+<p align="left">Sou um desenvolvedor web full-stack formado pela Trybe. Por formação, sou designer e busco integrar meus conhecimentos projetuais e metodologias de design com desenvolvimento web. Já desenvolvi projetos utilizando conhecimentos em: Node.js, Express, Sequelize, MySQL, JavaScript, HTML, CSS, React, Jest, RTL, Redux e Context API.
+
+Adoro trabalhar em equipe e estou sempre aprimorando minhas habilidades interpessoais em comunicação.
+
+Além disso, faço ilustração digital e pixel art como hobby e estou sempre em busca de mais conhecimento.
+
+Contato: crizatip@gmail.com<br></p>
 
 ###
 
