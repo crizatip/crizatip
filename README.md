@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor web full-stack formado pela Trybe. Por formação, sou designer e busco integrar meus conhecimentos projetuais e metodologias de design com desenvolvimento web. Já desenvolvi projetos utilizando conhecimentos em: Node.js, Express, Sequelize, MySQL, JavaScript, HTML, CSS, React, Jest, RTL, Redux e Context API.
+<p align="left">Sou um desenvolvedor web full-stack formado pela Trybe, com graduação em design. Meu objetivo é integrar habilidades projetuais e metodologias de design ao desenvolvimento web, com o intuito de criar soluções completas e visualmente atraentes. Já desenvolvi projetos utilizando conhecimentos em: Node.js, Express, Sequelize, MySQL, JavaScript, HTML, CSS, React, Jest, RTL, Redux e Context API.
 
 Adoro trabalhar em equipe e estou sempre aprimorando minhas habilidades interpessoais em comunicação.
 
